@@ -23,7 +23,5 @@ I would like to arrange an appointment to learn more if you are recruiting, hiri
 
 Looking forward to your response. Please email me on shhravyayerrmal@gmail.com 
 
-Best Wishes,
-
-Shravya Yermal.
+Best Wishes, Shravya Yermal.
 
