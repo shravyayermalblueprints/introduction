@@ -21,7 +21,7 @@ While getting exposure to the business world, I noticed a passion to learn more 
 
 I would like to schedule an appointment to learn more if you are recruiting, hiring, or have an opening in your team.
 
-Looking forward to your response. Please email me on shhravyayerrmal@gmail.com 
+Looking forward to your response. Please email me on shhravyayerrmal@gmail.com. 
 
 Best Wishes, Shravya Yermal.
 
