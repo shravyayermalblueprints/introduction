@@ -17,7 +17,7 @@ My professional experience also involved performing analysis of vast data stores
 
 In the diverse workforce, I had drove the delivery and led a team of 3 subordinates working on development of data pipelines to support operational processes, analytics & reporting use cases in efficient manner. Optimization was my expertise and I was also recognized the only Certified Kafka Developer within the team. 
 
-While getting exposure to the business world, I noticed a passion to learn more about data & statistics. I arrived at the State University of New York at Buffalo to pursue a degree in Data Science. Overall including my scholastic and career endeavors, I would say that I have had about 8 years of experience overall.
+While getting exposure to the business world, I noticed a passion to learn more about data & statistics. I arrived at the State University of New York at Buffalo to pursue a degree in Data Science. Overall including my scholastic and career endeavors, I would say that I have had about 7+ years of experience overall.
 
 I would like to schedule an appointment to learn more if you are recruiting, hiring, or have an opening in your team.
 
