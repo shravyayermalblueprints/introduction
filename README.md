@@ -18,7 +18,7 @@ In the diverse workforce, I drove the delivery and led a team of 3 subordinates 
 
 While getting exposure to the business world, I noticed a passion to learn more about data & statistics. I arrived at the State University of New York at Buffalo to pursue a degree in Data Science. Overall including my scholastic and career endeavors, I would say that I have had about 7+ years of experience.
 
-I would like to schedule an appointment to learn more if you are recruiting, hiring, or have an opening in your team.
+I would like to schedule an appointment to learn more about your promising skills and interests. I love to chat and know more about your interests.
 
 Looking forward to your response. Please email me at shhravyayerrmal@gmail.com. 
 
