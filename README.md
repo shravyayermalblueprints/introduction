@@ -8,5 +8,4 @@ It's great to see you here. My name is Shravya Yermal.
 
 ### Anticipating your pings. My email address: shhravyayerrmal@gmail.com
 
-Best Wishes, Shravya Yermal.
 
