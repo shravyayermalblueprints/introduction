@@ -1,5 +1,4 @@
-
-##👋 Hi there, 
+👋 Hi there, 
 
 I’m Shravya Yermal – welcome to my GitHub!
 
@@ -10,7 +9,7 @@ I’m Shravya Yermal – welcome to my GitHub!
 💼 I’m actively seeking opportunities where I can contribute, learn, and grow. If you’re looking for someone who’s enthusiastic, hands-on, and growth-oriented, I’d love to connect!
 
 📬 Let’s talk!
-###You can reach me at shhravyayerrmal@gmail.com
+You can reach me at shhravyayerrmal@gmail.com
 
 
 
