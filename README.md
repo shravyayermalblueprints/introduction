@@ -14,12 +14,13 @@ You can reach me at **shhravyayerrmal@gmail.com**
 
 📂 Featured Projects
 
-- 📊 Netflix Data Analysis Using Tableau – Visual insights into streaming trends  
+
 - 📦 Data Pipeline Using Airflow – End-to-end Twitter data ETL workflow  
 - ⚡ Real-time Credit Card Anomaly Detection – Fraud detection using Kafka streams and Spark  
 - 🚢 Migration Using Docker & Kubernetes – Cloud-native transformation of a Spring Boot app  
 - 🧠 Intro to Deep Learning (MIT) – Hands-on labs exploring neural networks  
-- 🧩 NVIDIA NeMo (Fork) – Framework for building LLMs, Multimodal, and Speech AI  
+- 🧩 NVIDIA NeMo (Fork) – Framework for building LLMs, Multimodal, and Speech AI
+- 📊 Netflix Data Analysis Using Tableau – Visual insights into streaming trends  
 
 
 
