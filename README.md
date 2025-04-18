@@ -1,4 +1,4 @@
-👋 Hi there, I’m **Shravya Yermal** –  welcome to my GitHub!
+👋 Hi there, I’m **Shravya Yermal** –   welcome to my GitHub!
 
 🎯 I’m a **curious and driven Data & ML Engineer** with a strong passion for solving complex problems through data. I enjoy building scalable data pipelines, designing insightful dashboards, and exploring the power of machine learning and generative AI to create real-world impact.
 
