@@ -1,27 +1,28 @@
-👋 Hi there, I’m **Shravya Yermal** – welcome to my GitHub!
+👋 Hey there, I’m **Shravya Yermal** — welcome to my GitHub!
 
-🎯 I’m a **curious and driven Data & ML Engineer** with a strong passion for solving complex problems through data. I enjoy building scalable data pipelines, designing insightful dashboards, and exploring the power of machine learning and generative AI to create real-world impact.
+📊 I’m a **curious Data Analytics Engineer and Business Intelligence Developer** with 4+ years of experience turning high-volume data into high-impact decisions. I specialize in building scalable analytics systems that simplify complexity and spark innovation — from dashboards that unlock insights to pipelines that power strategy.
 
-⚙️ My toolkit includes **Apache Kafka**, **Apache Spark**, **Airflow**, **Snowflake**, **Kubernetes**, and **Docker** — all leveraged to engineer high-volume, real-time data solutions.
+💡 My work sits at the **intersection of analytics, visionary system design, and business outcomes** — delivering solutions across industries like fintech, e-commerce, healthcare, retail, and marketing.
 
-🔍 Always exploring new tools, frameworks, and ideas — I love turning raw data into actionable insights and seamless systems.
+🔧 Tools of my trade:  
+**SQL | Python | DAX | BigQuery | Airflow | Apache Kafka | Spark | Snowflake | Kubernetes | Tableau | Power BI | Prometheus | Grafana**
 
-💼 I’m actively seeking opportunities where I can contribute, learn, and grow. If you’re looking for someone who’s **enthusiastic, hands-on, and growth-oriented**, I’d love to connect!
+📈 What I’m passionate about:
+- Architecting **cloud-native data platforms** that scale with business needs.
+- Enabling **real-time analytics** to drive faster decisions.
+- Designing **dashboards & reports** that speak the language of stakeholders.
+- Exploring the role of **Gen AI & LLMs** in BI & enterprise data transformation.
 
-📬 Let’s talk!  
-You can reach me at **shhravyayerrmal@gmail.com**
+🛠 Featured Projects:
+- 🔁 **Snowflake + Power BI Integration** – Data warehouse + dashboard for real-time insight
+- ⚡ **Kafka + Spark Fraud Detection** – Real-time anomaly detection pipeline
+- 🌐 **GCP BI Stack** – Advanced analytics using BigQuery & AutoML
+- 🧩 **LLM-Powered Enterprise Search** – Accelerated document analysis with AI
 
+📬 Let’s Connect:  
+Email: **shhravyayerrmal@gmail.com**  
+LinkedIn: [linkedin.com/in/shravyayermal](https://linkedin.com/in/shravyayermal)
 
-📂 Featured Projects
-
-
-- 📦 Data Pipeline Using Airflow – End-to-end Twitter data ETL workflow  
-- ⚡ Real-time Credit Card Anomaly Detection – Fraud detection using Kafka streams and Spark  
-- 🚢 Migration Using Docker & Kubernetes – Cloud-native transformation of a Spring Boot app  
-- 🧠 Intro to Deep Learning (MIT) – Hands-on labs exploring neural networks  
-- 🧩 NVIDIA NeMo (Fork) – Framework for building LLMs, Multimodal, and Speech AI
-- 📊 Netflix Data Analysis Using Tableau – Visual insights into streaming trends  
-
-
+👀 I’m open to new opportunities where data drives product, performance, and purpose. Let’s build something great.
 
 
