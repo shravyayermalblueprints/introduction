@@ -1,23 +1,31 @@
-👋 Hey there, I’m **Shravya Yermal** — welcome to my GitHub!
+Hey there, I’m **Shravya Yermal** — welcome to my GitHub!
 
-📊 I’m a **curious Data Analytics Engineer and Business Intelligence Developer** with 4+ years of experience turning high-volume data into high-impact decisions. I specialize in building scalable analytics systems that simplify complexity and spark innovation — from dashboards that unlock insights to pipelines that power strategy.
+I’m a **Data Analytics Engineer and Business Intelligence** with 4 years of decoding complex business problems. From brainstorming ideas to delivery. I’ve partnered with cross-functional teams to deliver impactful solutions across multiple industries, driving storytelling with data, and identifying best practices. 
 
-💡 My work sits at the **intersection of analytics, visionary system design, and business outcomes** — delivering solutions across industries like fintech, e-commerce, healthcare, retail, and marketing.
+I thrive at the intersection of data, intuition, and strategic execution. My work sits at the **intersection of analytics, visionary system design, and business outcomes** — delivering solutions across industries like fintech, e-commerce, healthcare, retail, and marketing.
 
-🔧 Tools of my trade:  
-**SQL | Python | DAX | BigQuery | Airflow | Apache Kafka | Spark | Snowflake | Kubernetes | Tableau | Power BI | Prometheus | Grafana**
+Career Highlights:
+- Optimized SQL pipelines in BigQuery, enhancing customer analytics reporting efficiency by 30%.
+- Tuned ETL workflows and constructed data models to support seasonal transaction analysis, improving scalability.
+- Automated KPI reporting in Power BI and Excel, cutting manual effort by 90% and driving faster decision-making.
+- Migrated 8 B+ records from DB2 to AWS Redshift with zero downtime, expanding scalable cloud analytics.
+- Designed Tableau dashboards that advanced customer retention metrics by 25%.
+- Built real-time data ingestion pipelines with Kafka Streams, processing over 1.5M records/hour.
 
-📈 What I’m passionate about:
-- Architecting **cloud-native data platforms** that scale with business needs.
-- Enabling **real-time analytics** to drive faster decisions.
-- Designing **dashboards & reports** that speak the language of stakeholders.
-- Exploring the role of **Gen AI & LLMs** in BI & enterprise data transformation.
+What drives me :
+-Transforming raw data into clear, strategic business insights.
+-Building resilient, efficient data systems that perform at scale.
+-Crafting intuitive dashboards that power better decisions.
+-Collaborating across technical and business teams to amplify data’s impact.
 
-🛠 Featured Projects:
-- 🔁 **Snowflake + Power BI Integration** – Data warehouse + dashboard for real-time insight
-- ⚡ **Kafka + Spark Fraud Detection** – Real-time anomaly detection pipeline
-- 🌐 **GCP BI Stack** – Advanced analytics using BigQuery & AutoML
-- 🧩 **LLM-Powered Enterprise Search** – Accelerated document analysis with AI
+Skills :
+- Programming Languages: Python, Java, 
+- Databases: SQL, DAX, PL/SQL, MySQL, SQL Server.
+- Cloud Stack: GCP(BigQuery, Looker Studio), AWS (S3, Redshift, Glue), Snowflake, Apache Spark.
+- ETL/BI Tools: DBT, Power BI, Tableau, Talend, Alteryx, ER Studio, Kibana, Prometheus, Apache Airflow, Kafka.
+- Data Analysis Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn.
+- Analytical Techniques: Targeting Segmentation, A/B Testing, Cohort Analysis, Multivariate Testing.
+- Certificates: Google Data Analytics Professional Certificate.
 
 📬 Let’s Connect:  
 Email: **shhravyayerrmal@gmail.com**  
