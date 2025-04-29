@@ -1,6 +1,6 @@
 Hey there, I’m **Shravya Yermal** — welcome to my GitHub!
 
-I’m a **Data Analytics Engineer and Business Intelligence** with 4 years of decoding complex business problems. From brainstorming ideas to delivery. I’ve partnered with cross-functional teams to deliver impactful solutions across multiple industries, driving storytelling with data, and identifying best practices. 
+I’m a **Data Analytics Engineer and Business Intelligence** with experience in decoding complex business problems end-to-end, from brainstorming ideas to delivery. I’ve partnered with cross-functional teams to provide impactful solutions, driving storytelling with data, and identifying best practices.
 
 I thrive at the intersection of data, intuition, and strategic execution. My work sits at the **intersection of analytics, visionary system design, and business outcomes** — delivering solutions across industries like fintech, e-commerce, healthcare, retail, and marketing.
 
