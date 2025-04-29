@@ -13,6 +13,7 @@ Career Highlights:
 - Built real-time data ingestion pipelines with Kafka Streams, processing over 1.5M records/hour.
 
 What drives me :
+
 -Transforming raw data into clear, strategic business insights.
 
 -Building resilient, efficient data systems that perform at scale.
