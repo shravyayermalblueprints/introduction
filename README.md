@@ -14,8 +14,11 @@ Career Highlights:
 
 What drives me :
 -Transforming raw data into clear, strategic business insights.
+
 -Building resilient, efficient data systems that perform at scale.
+
 -Crafting intuitive dashboards that power better decisions.
+
 -Collaborating across technical and business teams to amplify data’s impact.
 
 Skills :
