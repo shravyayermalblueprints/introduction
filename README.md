@@ -1,40 +1,37 @@
 Hey there, I’m **Shravya Yermal** — welcome to my GitHub!
 
-I’m a **Data Analytics Engineer and Business Intelligence** with experience in decoding complex business problems end-to-end, from brainstorming ideas to delivery. I’ve partnered with cross-functional teams to provide impactful solutions, driving storytelling with data, and identifying best practices.
+As a data engineering specialist, I believe in using analytics and technology to create meaningful, measurable business impact. My curiosity drives me to solve complex challenges across industries, always seeking opportunities to deliver solutions that matter.
 
-I thrive at the intersection of data, intuition, and strategic execution. My work sits at the **intersection of analytics, visionary system design, and business outcomes** — delivering solutions across industries like fintech, e-commerce, healthcare, retail, and marketing.
+"The true measure of success is not wealth or fame, but the impact you have on others."
+– Sudha Murthy
 
-Career Highlights:
-- Optimized SQL pipelines in BigQuery, enhancing customer analytics reporting efficiency by 30%.
-- Tuned ETL workflows and constructed data models to support seasonal transaction analysis, improving scalability.
-- Automated KPI reporting in Power BI and Excel, cutting manual effort by 90% and driving faster decision-making.
-- Migrated 8 B+ records from DB2 to AWS Redshift with zero downtime, expanding scalable cloud analytics.
-- Designed Tableau dashboards that advanced customer retention metrics by 25%.
-- Built real-time data ingestion pipelines with Kafka Streams, processing over 1.5M records/hour.
-
-What drives me :
-
--Transforming raw data into clear, strategic business insights.
-
--Building resilient, efficient data systems that perform at scale.
-
--Crafting intuitive dashboards that power better decisions.
-
--Collaborating across technical and business teams to amplify data’s impact.
+I’m always open to connecting with professionals, recruiters, and teams passionate about data-driven transformation. Let’s build something great
 
 Skills :
-- Programming Languages: Python, Java, 
-- Databases: SQL, DAX, PL/SQL, MySQL, SQL Server.
-- Cloud Stack: GCP(BigQuery, Looker Studio), AWS (S3, Redshift, Glue), Snowflake, Apache Spark.
-- ETL/BI Tools: DBT, Power BI, Tableau, Talend, Alteryx, ER Studio, Kibana, Prometheus, Apache Airflow, Kafka.
-- Data Analysis Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn.
-- Analytical Techniques: Targeting Segmentation, A/B Testing, Cohort Analysis, Multivariate Testing.
-- Certificates: Google Data Analytics Professional Certificate.
+- Programming Languages: Python, Java
+- Databases: SQL, DAX, PL/SQL, MySQL, SQL Server
+- Cloud Stack : GCP(BigQuery, Looker Studio), AWS (S3, Redshift, Glue), Snowflake
+- ETL/BI Tools: DBT, PowerBI, Tableau, Microsoft Excel, Talend, Alteryx, Airflow, Kafka, Apache Spark
+- Data Analysis library: Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn
+- Analytical Techniques: Targeting Segmentation, A/B Testing, Cohort Analysis, Multivariate Testing
 
-📬 Let’s Connect:  
-Email: **shhravyayerrmal@gmail.com**  
-LinkedIn: [linkedin.com/in/shravyayermal](https://linkedin.com/in/shravyayermal)
-
-👀 I’m open to new opportunities where data drives product, performance, and purpose. Let’s build something great.
-
-
+Feel free to reach out at 𝘀𝗵𝗵𝗿𝗮𝘃𝘆𝗮𝘆𝗲𝗿𝗿𝗺𝗮𝗹@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 or via LinkedIn.
+  
+      <style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=shravyayermal" target="_blank">Follow on LinkedIn</a>
