@@ -5,7 +5,7 @@ As a data engineering specialist, I believe in using analytics and technology to
 "The true measure of success is not wealth or fame, but the impact you have on others."
 – Sudha Murthy
 
-I’m always open to connecting with professionals, recruiters, and teams passionate about data-driven transformation. Let’s build something great
+I’m always open to connecting with professionals, recruiters, and teams passionate about data-driven transformation. Let’s build something great.
 
 Skills :
 - Programming Languages: Python, Java
@@ -15,23 +15,4 @@ Skills :
 - Data Analysis library: Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn
 - Analytical Techniques: Targeting Segmentation, A/B Testing, Cohort Analysis, Multivariate Testing
 
-Feel free to reach out at 𝘀𝗵𝗵𝗿𝗮𝘃𝘆𝗮𝘆𝗲𝗿𝗿𝗺𝗮𝗹@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 or via LinkedIn.
-  
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=shravyayermal" target="_blank">Follow on LinkedIn</a>
+Feel free to reach out at 𝘀𝗵𝗵𝗿𝗮𝘃𝘆𝗮𝘆𝗲𝗿𝗿𝗺𝗮𝗹@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 or via LinkedIn(https://www.linkedin.com/in/shravyayermal/)
